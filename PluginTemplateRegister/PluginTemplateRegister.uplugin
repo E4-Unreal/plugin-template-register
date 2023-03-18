@@ -1,0 +1,31 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "0.1",
+	"FriendlyName": "Plugin Template Register",
+	"Description": "Add external plugin template with modular feature interface",
+	"Category": "Editor",
+	"CreatedBy": "Eu4ng",
+	"CreatedByURL": "",
+	"DocsURL": "https://github.com/Eu4ng/unreal-plugin-template-register",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "5.1.0",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": true,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "PluginTemplateRegister",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "PluginBrowser",
+			"Enabled": true
+		}
+	]
+}

@@ -1,0 +1,10 @@
+# Rider IDE
+.idea/
+*.vsconfig
+
+# Visual Studio 2015 user specific files
+.vs/
+
+# Unreal Plugin
+**/Binaries/
+**/Intermediate/
